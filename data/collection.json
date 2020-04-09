@@ -26,5 +26,9 @@
   {
     "appName": "GIMP",
     "category": "photo"
+  },
+  {
+    "appName": "360安全浏览器",
+    "category": "browser"
   }
 ]
