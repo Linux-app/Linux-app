@@ -1,0 +1,10 @@
+{
+  "appName": "360安全浏览器",
+  "officalUrl": "https://browser.360.cn/se/linux/index.html",
+  "desc": "全面支持国产计算机平台",
+  "category": "browser",
+  "img": [],
+  "arch": [
+    "universal"
+  ]
+}
