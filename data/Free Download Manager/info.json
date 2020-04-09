@@ -1,0 +1,10 @@
+{
+  "appName": "Free Download Manager",
+  "iconUrl":"https://www.freedownloadmanager.org/favicon.ico",
+  "officalUrl": "https://www.freedownloadmanager.org",
+  "desc": "这是一款在Windows，macOS，Android及Linux系统下，强大又现代的下载加速组织器。",
+  "img": [],
+  "arch": [
+    "deb"
+  ]
+}

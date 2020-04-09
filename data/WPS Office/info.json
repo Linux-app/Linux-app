@@ -1,0 +1,11 @@
+{
+  "appName": "WPS Office",
+  "iconUrl": "https://static.epy.wpscdn.cn/favicon.ico",
+  "officalUrl": "https://linux.wps.cn/",
+  "desc": "",
+  "img": [],
+  "arch": [
+    "deb",
+    "rpm"
+  ]
+}

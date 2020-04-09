@@ -1,0 +1,10 @@
+{
+  "appName": "搜狗输入法",
+  "iconUrl": "https://pinyin.sogou.com/favicon.ico",
+  "officalUrl": "https://pinyin.sogou.com/linux/",
+  "desc": "这是一款Linux 系统下中文拼音输入法",
+  "img": [],
+  "arch": [
+    "deb"
+  ]
+}
