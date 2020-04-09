@@ -14,5 +14,9 @@
   {
     "appName": "WPS Office",
     "iconUrl":"https://static.epy.wpscdn.cn/favicon.ico"
+  },
+  {
+  "appName": "网易云音乐",
+  "iconUrl": "https://s1.music.126.net/style/favicon.ico"
   }
 ]
