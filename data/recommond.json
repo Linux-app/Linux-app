@@ -1,18 +1,17 @@
 [
   {
-    "appName": "Free Download Manager",
-    "iconUrl": "https://www.freedownloadmanager.org/favicon.ico"
+    "appName": "Free Download Manager"
   },
   {
-    "appName": "Visual Studio Code",
-    "iconUrl": "https://code.visualstudio.com/favicon.ico"
+    "appName": "Visual Studio Code"
   },
   {
-    "appName": "搜狗输入法",
-    "iconUrl": "https://pinyin.sogou.com/favicon.ico"
+    "appName": "搜狗输入法"
   },
   {
-    "appName": "WPS Office",
-    "iconUrl":"https://static.epy.wpscdn.cn/favicon.ico"
+    "appName": "WPS Office"
+  },
+  {
+    "appName": "网易云音乐"
   }
 ]

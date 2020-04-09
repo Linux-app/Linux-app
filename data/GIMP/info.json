@@ -1,0 +1,10 @@
+{
+  "appName": "GIMP",
+  "officalUrl": "https://www.gimp.org/",
+  "desc": "The Free & Open Source Image Editor",
+  "category": "photo",
+  "img": [],
+  "arch": [
+    "flatpak"
+  ]
+}

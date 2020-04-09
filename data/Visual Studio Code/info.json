@@ -1,8 +1,8 @@
 {
   "appName": "Visual Studio Code",
-  "iconUrl":"https://code.visualstudio.com/favicon.ico",
   "officalUrl": "https://code.visualstudio.com/",
   "desc": "这是一款在Windows, macOS 及Linux 系统下，强大又现代的编辑器。",
+  "category": "development",
   "img": [],
   "arch": [
     "deb"

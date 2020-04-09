@@ -1,7 +1,7 @@
 {
   "appName": "WPS Office",
-  "iconUrl": "https://static.epy.wpscdn.cn/favicon.ico",
   "officalUrl": "https://linux.wps.cn/",
+  "category": "office",
   "desc": "",
   "img": [],
   "arch": [

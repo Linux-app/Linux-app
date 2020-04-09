@@ -1,18 +1,30 @@
 [
   {
     "appName": "Free Download Manager",
-    "iconUrl": "https://www.freedownloadmanager.org/favicon.ico"
+    "category": "download"
   },
   {
     "appName": "Visual Studio Code",
-    "iconUrl": "https://code.visualstudio.com/favicon.ico"
+    "category": "development"
   },
   {
     "appName": "搜狗输入法",
-    "iconUrl": "https://pinyin.sogou.com/favicon.ico"
+    "category": "input"
   },
   {
     "appName": "WPS Office",
-    "iconUrl":"https://static.epy.wpscdn.cn/favicon.ico"
+    "category": "office"
+  },
+  {
+    "appName": "网易云音乐",
+    "category": "music"
+  },
+  {
+    "appName": "Eclipse",
+    "category": "development"
+  },
+  {
+    "appName": "GIMP",
+    "category": "photo"
   }
 ]
