@@ -34,5 +34,9 @@
   {
     "appName": "极点五笔输入法",
     "category": "input"
+  },
+  {
+    "appName": "MySQL Workbench",
+    "category": "development"
   }
 ]
