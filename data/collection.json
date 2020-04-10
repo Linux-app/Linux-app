@@ -42,5 +42,9 @@
   {
     "appName": "网易有道词典",
     "category": "language"
+  },
+  {
+    "appName": "百度网盘",
+    "category": "storage"
   }
 ]
