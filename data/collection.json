@@ -38,5 +38,9 @@
   {
     "appName": "MySQL Workbench",
     "category": "development"
+  },
+  {
+    "appName": "网易有道词典",
+    "category": "language"
   }
 ]
