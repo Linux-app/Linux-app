@@ -1,0 +1,11 @@
+{
+  "appName": "极点五笔输入法",
+  "officalUrl": "",
+  "desc": "Linux平台下的五笔输入法",
+  "category": "input",
+  "img": [],
+  "download":["http://210.22.22.150:1278"],
+  "arch": [
+    "deb"
+  ]
+}
