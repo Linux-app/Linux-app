@@ -1,0 +1,10 @@
+{
+  "appName": "网易有道词典",
+  "officalUrl": "http://cidian.youdao.com/index-linux.html",
+  "desc": "",
+  "category": "language",
+  "img": [],
+  "arch": [
+    "deb"
+  ]
+}
