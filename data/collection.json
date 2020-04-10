@@ -30,5 +30,9 @@
   {
     "appName": "360安全浏览器",
     "category": "browser"
+  },
+  {
+    "appName": "极点五笔输入法",
+    "category": "input"
   }
 ]
