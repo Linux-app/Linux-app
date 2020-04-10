@@ -7,3 +7,5 @@
 1. 在collection.json的最后添加你的应用信息（[collection.json](../../tree/master/data/collection.json)）
 1. 不要更改recommond.json文件哦！
 1. 提交PR
+## 计划
+- [ ] 将图片更改为webp格式，减小体积加快网页加载
