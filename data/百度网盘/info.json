@@ -1,0 +1,11 @@
+{
+  "appName": "百度网盘",
+  "officalUrl": "https://pan.baidu.com/download/",
+  "desc": "海量云存储文件，释放本地空间，支持超大文件批量下载和断点续传。",
+  "category": "storage",
+  "img": [],
+  "arch": [
+    "deb",
+    "rpm"
+  ]
+}
