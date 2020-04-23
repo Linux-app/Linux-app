@@ -46,5 +46,13 @@
   {
     "appName": "百度网盘",
     "category": "storage"
+  },
+  {
+    "appName": "Mozc",
+    "category": "input"
+  },
+  {
+    "appName": "VLC",
+    "category": "video"
   }
 ]
