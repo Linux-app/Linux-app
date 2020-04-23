@@ -1,0 +1,11 @@
+{
+  "appName": "VLC",
+  "officalUrl": "https://www.videolan.org/vlc/",
+  "desc": "",
+  "category": "video",
+  "img": [],
+  "arch": [
+    "deb",
+    "rpm"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "appName": "Mozc",
+  "officalUrl": "https://fcitx-im.org/wiki/Mozc",
+  "desc": "",
+  "category": "input",
+  "img": [],
+  "arch": [
+    "deb"
+  ]
+}
